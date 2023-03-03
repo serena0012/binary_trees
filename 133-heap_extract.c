@@ -194,4 +194,3 @@ int heap_extract(heap_t **root)
 	SWAP_HEAD_BLOC;
 	return (res);
 }
-
